@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/BravosBank.API/">
+    <Project Path="BravosBank.API/BravosBank.API/BravosBank.API.csproj" Id="a6438e9b-afc1-422f-ba3e-62ef7c07bff0" />
+  </Folder>
+  <Folder Name="/BravosBank.Services/" />
+  <Folder Name="/BravosBank.Services/BravosBank.Services.Onboarding/">
+    <Project Path="BravosBank.Services/BravosBank.Services.Onboarding/BravosBank.Services.Onboarding.Command/BravosBank.Services.Onboarding.Command.csproj" />
+    <Project Path="BravosBank.Services/BravosBank.Services.Onboarding/BravosBank.Services.Onboarding.Common/BravosBank.Services.Onboarding.Common/BravosBank.Services.Onboarding.Common.csproj" Id="610eb100-1a55-4ee9-aa25-2b16e40c23cd" />
+  </Folder>
+  <Folder Name="/BravosBank.Shared/">
+    <Project Path="BravosBank.Shared/BravosBank.Shared.EventSourcing/BravosBank.Shared.EventSourcing.csproj" Id="bb1d4dba-432d-4bc1-8c44-723861bd8528" />
+  </Folder>
+</Solution>
