@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Solution/.vs
+/Solution/BravosBank.API/BravosBank.API/obj
+/Solution/BravosBank.API/BravosBank.API/appsettings.Development.json
+/Solution/BravosBank.API/BravosBank.API/BravosBank.API.csproj.user
+/Solution/BravosBank.Services/BravosBank.Services.Onboarding/BravosBank.Services.Onboarding.Command/obj
+/Solution/BravosBank.Services/BravosBank.Services.Onboarding/BravosBank.Services.Onboarding.Common/BravosBank.Services.Onboarding.Common/obj
+/Solution/BravosBank.Shared/BravosBank.Shared.EventSourcing/obj
